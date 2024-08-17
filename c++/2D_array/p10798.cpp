@@ -1,3 +1,7 @@
+/*
+    p10798 세로읽기 b1
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
